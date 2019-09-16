@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Python 3\python.exe" good_bot.py
